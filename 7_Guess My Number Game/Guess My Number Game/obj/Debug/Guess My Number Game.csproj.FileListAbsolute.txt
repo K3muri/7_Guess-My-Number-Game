@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.exe
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.exe
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 9 C\Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.pdb
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.exe.config
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.exe
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\bin\Debug\Guess My Number Game.pdb
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.exe
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.pdb
+C:\Users\KEMURI\Desktop\the hub\7_Guess My Number Game\Guess My Number Game\obj\Debug\Guess My Number Game.csprojAssemblyReference.cache
